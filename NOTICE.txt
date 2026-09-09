@@ -1,0 +1,70 @@
+﻿This project contains code from Idaho National Laboratory.
+Github URL: xxx
+Licensed under xxx
+
+
+© 2026 Battelle Energy Alliance, LLC  
+ALL RIGHTS RESERVED
+
+Prepared by Battelle Energy Alliance, LLC
+Under Contract No. DE-AC07-05ID14517
+With the U. S. Department of Energy
+
+NOTICE:  This computer software was prepared by Battelle Energy
+Alliance, LLC, hereinafter the Contractor, under Contract
+No. AC07-05ID14517 with the United States (U. S.) Department of
+Energy (DOE).  The Government is granted for itself and others acting on
+its behalf a nonexclusive, paid-up, irrevocable worldwide license in this
+data to reproduce, prepare derivative works, and perform publicly and
+display publicly, by or on behalf of the Government. There is provision for
+the possible extension of the term of this license.  Subsequent to that
+period or any extension granted, the Government is granted for itself and
+others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide
+license in this data to reproduce, prepare derivative works, distribute
+copies to the public, perform publicly and display publicly, and to permit
+others to do so.  The specific term of the license can be identified by
+inquiry made to Contractor or DOE.  NEITHER THE UNITED STATES NOR THE UNITED
+STATES DEPARTMENT OF ENERGY, NOR CONTRACTOR MAKES ANY WARRANTY, EXPRESS OR
+IMPLIED, OR ASSUMES ANY LIABILITY OR RESPONSIBILITY FOR THE USE, ACCURACY,
+COMPLETENESS, OR USEFULNESS OR ANY INFORMATION, APPARATUS, PRODUCT, OR
+PROCESS DISCLOSED, OR REPRESENTS THAT ITS USE WOULD NOT INFRINGE PRIVATELY
+OWNED RIGHTS.
+
+and 
+
+Copyright (c) 2026, Battelle Memorial Institute 
+
+This material was prepared as an account of work sponsored by an agency of the
+United States Government.  Neither the United States Government nor the United
+States Department of Energy, nor Battelle, nor any of their employees, nor any
+jurisdiction or organization that has cooperated in the development of these
+materials, makes any warranty, express or implied, or assumes any legal
+liability or responsibility for the accuracy, completeness, or usefulness or
+any information, apparatus, product, software, or process disclosed, or
+represents that its use would not infringe privately owned rights.
+
+Reference herein to any specific commercial product, process, or service by
+trade name, trademark, manufacturer, or otherwise does not necessarily
+constitute or imply its endorsement, recommendation, or favoring by the United
+States Government or any agency thereof, or Battelle Memorial Institute. The
+views and opinions of authors expressed herein do not necessarily state or
+reflect those of the United States Government or any agency thereof.
+
+                 PACIFIC NORTHWEST NATIONAL LABORATORY
+                              operated by
+                                BATTELLE
+                                for the
+                   UNITED STATES DEPARTMENT OF ENERGY
+                    under Contract DE-AC05-76RL01830
+
+
+Authors:
+
+Soumyadeep Nag
+
+SM Shafiul Alam
+
+Slaven Kincic
+
+
+
